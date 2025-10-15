@@ -13,8 +13,6 @@
   I have worked on eCommerce projects with WooCommerce, which has allowed me to strengthen my technical skills, project management, and user support abilities.
 </h4>
 
-<br>
-
 <div align="center">
   <h3>You can contact me on LinkedIn:</h3>
   <a href="https://www.linkedin.com/in/alejandro-gomez-vega-asd/">
