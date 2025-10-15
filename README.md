@@ -11,17 +11,19 @@
 <h4 align="center">
   I am a Software Engineering student and programming technician, with experience in development (Java, JavaScript, React, Node.js, CSS) and in teaching programming and video game development to young learners using Unity, C#, and Scratch.<br>
   I have worked on eCommerce projects with WooCommerce, which has allowed me to strengthen my technical skills, project management, and user support abilities.
-  <br><br>
-  <h3 align="center">
-    You can contact me on LinkedIn:
-  </h3 align="center">
-  <br><br>
-  <a href="https://www.linkedin.com/in/alejandro-gomez-vega-asd/">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"/>
-  </a>
 </h4>
 
+<br>
+
+<div align="center">
+  <h3>You can contact me on LinkedIn:</h3>
+  <a href="https://www.linkedin.com/in/alejandro-gomez-vega-asd/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" alt="linkedin logo" />
+  </a>
+</div>
+
 ###
+
 
 <h3 align="center">Languages & Tools</h3>
 
