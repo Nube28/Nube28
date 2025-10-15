@@ -17,7 +17,7 @@
   </h3 align="center">
   <br><br>
   <a href="https://www.linkedin.com/in/alejandro-gomez-vega-asd/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"/>
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"/>
   </a>
 </h4>
 
