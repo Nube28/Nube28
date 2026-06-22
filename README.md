@@ -9,7 +9,7 @@
 ###
 
 <h4 align="center">
-  I am a Software Engineering student and programming technician, with experience in development (Java, JavaScript, React, Node.js, CSS) and in teaching programming and video game development to young learners using Unity, C#, and Scratch.<br>
+  I am a Software Engineer and programming technician, with experience in development (Java, JavaScript, React, Node.js, CSS) and in teaching programming and video game development to young learners using Unity, C#, and Scratch.<br>
   I have worked on eCommerce projects with WooCommerce, which has allowed me to strengthen my technical skills, project management, and user support abilities.
 </h4>
 
